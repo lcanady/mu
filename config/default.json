@@ -1,0 +1,8 @@
+{
+    "connections":{
+        "game": {
+            "address": "localhost",
+            "port": 2860
+        }
+    }
+}
